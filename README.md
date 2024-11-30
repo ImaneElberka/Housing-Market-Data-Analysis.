@@ -85,7 +85,6 @@ Using `ggplot2`, plot a histogram to analyze the distribution of home values.
 
 ## Tools and Libraries
 - **R Libraries**:
-  - `tidyverse` (for data manipulation and visualization)
   - `ggplot2` (for visualizations)
   - `dplyr` (for data wrangling)
   - `car` (optional: for Levene's test)
